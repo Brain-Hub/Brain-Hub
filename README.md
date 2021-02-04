@@ -1,6 +1,6 @@
 ### Welcome to Brain-Hub's Github Profile
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Brain-Hub.Brain-Hub)
-![visitors](https://img.shields.io/badge/this-that-f39f37)
+![badge](https://img.shields.io/badge/this-that-f39f37)
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brain-Hub&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
