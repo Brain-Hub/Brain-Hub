@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Brain-Hub
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Brain-Hub.Brain-Hub)
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brain-Hub&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
