@@ -8,10 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other    6 hrs 36 mins   ███████████████▒░░░░░░░░░   61.16 % 
-Vue.js   3 hrs 33 mins   ████████▒░░░░░░░░░░░░░░░░   32.92 % 
-AWS      22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Git      15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
