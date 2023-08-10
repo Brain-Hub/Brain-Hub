@@ -1,15 +1,7 @@
 ### Welcome to Brain-Hub's Github Profile
-[![badge](https://img.shields.io/badge/Rootero%20Firmware-f39f37)](https://github.com/Brain-Hub/Rootero-Firmware)
-[![badge](https://img.shields.io/badge/Rootero%20Dashboard-f39f37)](https://github.com/Brain-Hub/Rootero-Dashboard)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Brain-Hub.Brain-Hub)
+[![badge](https://img.shields.io/badge/Rootero%20Cloud-f39f37)](https://github.com/Brain-Hub/RooteroCloud)
 <br>
 [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brain-Hub&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />](https://github.com/Brain-Hub?tab=projects)
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 <!--
 **Brain-Hub/Brain-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
